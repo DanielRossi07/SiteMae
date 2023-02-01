@@ -1,5 +1,24 @@
 body{
 	margin: 0px;
+	background-color: purple;
+	text-align: center;
+}
+
+.container{
+	width: 40%; 
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+.carousel-control-prev-icon {
+ background-image: url("https://apufpel.com.br/assets/img/seta_prim.png") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("https://apufpel.com.br/assets/img/seta_ult.png") !important;
 }
 
 .float{
